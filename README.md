@@ -23,6 +23,7 @@ Run the script Logistic_classifier.py and get the graph of the evolution of the 
 ### Installation
 
 The Packages needed are :
+
     - Tensorflow 
     - numpy
     - matplotlib
