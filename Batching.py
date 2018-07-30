@@ -1,6 +1,6 @@
 #using this function, we can get batches. Feed With matrices of weights and labels
 import math
-def batches(batch_size, features, labels):
+def get_batches(batch_size, features, labels):
 	
 		
 	assert len(features)==len(labels)
