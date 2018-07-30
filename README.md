@@ -4,10 +4,12 @@ This project aims to test the performance of a logistic classifier network on th
 The optimzer used is the  gradient descent optimizer.
 The current performance was obtained by using a CPU : AMD Ryzen 1800x.
 # Usage
-Tune the hyperparameters : 
+Tune the hyperparameters :
+
     - Initial learning rate
     - Batch size
     - Number of epochs 
+    
 by modifying them in the Logistic_classifier.py script : 
 ```sh
 # Tuning happens here : 
